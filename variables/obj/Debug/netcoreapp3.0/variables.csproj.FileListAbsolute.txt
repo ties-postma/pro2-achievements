@@ -1,0 +1,11 @@
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.exe
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.deps.json
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.runtimeconfig.json
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.runtimeconfig.dev.json
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.dll
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\bin\Debug\netcoreapp3.0\variables.pdb
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\obj\Debug\netcoreapp3.0\variables.csprojAssemblyReference.cache
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\obj\Debug\netcoreapp3.0\variables.AssemblyInfoInputs.cache
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\obj\Debug\netcoreapp3.0\variables.AssemblyInfo.cs
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\obj\Debug\netcoreapp3.0\variables.dll
+C:\Users\tiesp\OneDrive\Documenten\ma\bewijzenmap\periode1.1\pro2\pro2-achievements\variables\obj\Debug\netcoreapp3.0\variables.pdb
